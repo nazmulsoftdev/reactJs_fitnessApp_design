@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/reactJs_fitnessApp_design/static/css/main.8b6559cd.chunk.css",
+    "main.js": "/reactJs_fitnessApp_design/static/js/main.35a86649.chunk.js",
+    "main.js.map": "/reactJs_fitnessApp_design/static/js/main.35a86649.chunk.js.map",
+    "runtime-main.js": "/reactJs_fitnessApp_design/static/js/runtime-main.c2369953.js",
+    "runtime-main.js.map": "/reactJs_fitnessApp_design/static/js/runtime-main.c2369953.js.map",
+    "static/css/2.800be05e.chunk.css": "/reactJs_fitnessApp_design/static/css/2.800be05e.chunk.css",
+    "static/js/2.e5496630.chunk.js": "/reactJs_fitnessApp_design/static/js/2.e5496630.chunk.js",
+    "static/js/2.e5496630.chunk.js.map": "/reactJs_fitnessApp_design/static/js/2.e5496630.chunk.js.map",
+    "static/js/3.f5188458.chunk.js": "/reactJs_fitnessApp_design/static/js/3.f5188458.chunk.js",
+    "static/js/3.f5188458.chunk.js.map": "/reactJs_fitnessApp_design/static/js/3.f5188458.chunk.js.map",
+    "index.html": "/reactJs_fitnessApp_design/index.html",
+    "static/css/2.800be05e.chunk.css.map": "/reactJs_fitnessApp_design/static/css/2.800be05e.chunk.css.map",
+    "static/css/main.8b6559cd.chunk.css.map": "/reactJs_fitnessApp_design/static/css/main.8b6559cd.chunk.css.map",
+    "static/js/2.e5496630.chunk.js.LICENSE.txt": "/reactJs_fitnessApp_design/static/js/2.e5496630.chunk.js.LICENSE.txt",
+    "static/media/bodyicon1.b6364194.jpg": "/reactJs_fitnessApp_design/static/media/bodyicon1.b6364194.jpg",
+    "static/media/bodyicon2.44c406df.jpg": "/reactJs_fitnessApp_design/static/media/bodyicon2.44c406df.jpg",
+    "static/media/clubbigicon.31c15ed0.png": "/reactJs_fitnessApp_design/static/media/clubbigicon.31c15ed0.png",
+    "static/media/clubmembericon.9a33c1ae.png": "/reactJs_fitnessApp_design/static/media/clubmembericon.9a33c1ae.png",
+    "static/media/headerlogo.f51467ff.jpg": "/reactJs_fitnessApp_design/static/media/headerlogo.f51467ff.jpg",
+    "static/media/middlebox.8c0ef99a.jpg": "/reactJs_fitnessApp_design/static/media/middlebox.8c0ef99a.jpg",
+    "static/media/productwhiteicon.2eb9e02f.png": "/reactJs_fitnessApp_design/static/media/productwhiteicon.2eb9e02f.png",
+    "static/media/sliderbanner.e6d463db.jpg": "/reactJs_fitnessApp_design/static/media/sliderbanner.e6d463db.jpg",
+    "static/media/videobackground.5748c607.jpg": "/reactJs_fitnessApp_design/static/media/videobackground.5748c607.jpg",
+    "static/media/videotitle.ce323c9e.jpg": "/reactJs_fitnessApp_design/static/media/videotitle.ce323c9e.jpg",
+    "static/media/waveicon.e85e3f94.jpg": "/reactJs_fitnessApp_design/static/media/waveicon.e85e3f94.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2369953.js",
+    "static/css/2.800be05e.chunk.css",
+    "static/js/2.e5496630.chunk.js",
+    "static/css/main.8b6559cd.chunk.css",
+    "static/js/main.35a86649.chunk.js"
+  ]
+}
